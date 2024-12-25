@@ -4,9 +4,8 @@
 <h1 align="center">
   ɴɪ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʀᴏʙᴏᴛ
 </h1>
-https://camo.githubusercontent.com/9285a6d3fece2d0506653fad3473847b2d4989e51655f871145f07fb9c9d6709/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4a6973736875626f742f4a6973736875626f742f7265736f75726365732f68722e676966
-https://readme-typing-svg.herokuapp.com/?lines=LUCY+AUTO+FILTER+BOT+!;CREATED+BY+CODEFLIX+BOTS!;A+ADVANCE+BOT+WITH+COOL+FEATURES
 
+<img src="https://cdn.jsdelivr.net/gh/NIbot/NIbot/resources/hr.gif"/>
 ## Variables
 
 ### Required Variables
