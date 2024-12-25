@@ -4,7 +4,7 @@
 <h1 align="center">
   ɴɪ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʀᴏʙᴏᴛ
 </h1>
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>"/>
+<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>"
 ## Variables
 
 ### Required Variables
