@@ -1,5 +1,4 @@
-import os
-class script(object):
+class script(object):
     START_TXT = """<b>ʜᴇʏ {}, {}\n\n<blockquote>ɪ ᴀᴍ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ.</blockquote>
 <b><spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/IM_NISHANTT>ɴɪsʜᴀɴᴛ</b></spoiler></a>"""
 
