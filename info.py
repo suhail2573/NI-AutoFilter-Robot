@@ -41,7 +41,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'My_Tg_files')
 # Referal Settings
 REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '10')) # number of referal count
 REFERAL_PREMEIUM_TIME = environ.get('REFERAL_PREMEIUM_TIME', '1 week')
-OWNER_USERNAME = environ.get('OWNER_USERNAME', 'IM_NISHANTT') # owner username without @
+OWNER_USERNAME = environ.get('OWNER_USERNAME', 'CHOUDHARYSAHAB_003') # owner username without @
 
 
 # ID
