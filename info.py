@@ -13,9 +13,9 @@ def is_enabled(value, default):
 #---------------------------------------------------------------
 #---------------------------------------------------------------         ,
 SESSION = environ.get('SESSION', 'NIXBOTZ')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
-BOT_TOKEN = environ.get('BOT_TOKEN', '')
+API_ID = int(environ.get('API_ID', '25566866'))
+API_HASH = environ.get('API_HASH', 'a0a525af021cc2211ac46cffd86f6d82')
+BOT_TOKEN = environ.get('BOT_TOKEN', '7771450983:AAGTmN9ozV6YtB6Oshn1kg9mVGIgpTQy2RY')
 
 START_IMG = (environ.get('START_IMG', 'https://i.ibb.co/qpxpGmC/image.jpg https://i.ibb.co/DQ35zLZ/image.jpg')).split()
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg')
@@ -26,16 +26,16 @@ REACTIONS = ["🤝", "🦋", "😇", "🤗", "😍", "👍", "🎅", "😐", "�
 
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
 USERNAME = environ.get('USERNAME', "https://t.me/") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002157838063'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') #Support group link ( make sure bot is admin )
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/Ni_Movie_Request_Grouo')
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/SCNETWORK256')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '').split()]
 SUPPORT_CHAT_ID = environ.get('SUPPORT_CHAT_ID', '0') 
 
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Yash1: Yash1@yashdd.hetez.mongodb.net/?retryWrites =true&w=majority&appName-yashdd")
+DATABASE_NAME = environ.get('DATABASE_NAME', "yashdd")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'My_Tg_files')
 
 # Referal Settings
